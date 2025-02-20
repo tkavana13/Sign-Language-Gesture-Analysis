@@ -31,3 +31,6 @@ Hardware specifications necessary for development and deployment include:
 Results:
 
 ![image alt](https://github.com/tkavana13/Sign-Language-Gesture-Analysis/blob/main/Collected/Hello.jpg?raw=true)
+
+
+![image alt](https://github.com/tkavana13/Sign-Language-Gesture-Analysis/blob/main/Screenshot%20(92).png?raw=true)
