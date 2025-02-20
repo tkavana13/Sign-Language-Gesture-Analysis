@@ -19,3 +19,6 @@ Hardware specifications necessary for development and deployment include:
 • Storage: SSD with at least 256 GB available space. • Operating System: Windows 10/11.
  • Camera: High-quality, 3MP
  • RAM: Minimum 8GB or higher
+
+
+![image alt](https://github.com/tkavana13/Sign-Language-Gesture-Analysis/blob/main/Screenshot%20(89).png?raw=true)
