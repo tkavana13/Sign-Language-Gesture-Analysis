@@ -43,3 +43,14 @@ Results:
 
 
 ![image alt](https://github.com/tkavana13/Sign-Language-Gesture-Analysis/blob/main/Screenshot%20(97).png?raw=true)
+
+
+Conclusion :  
+Nowadays, applications require a wide variety of images as a source of information for 
+interpretation and analysis. There are many features to remove to run various applications. 
+When an image is converted from one form to another such as digitizing, scanning and 
+communication, storage etc. Therefore, the output image undergoes a process called image 
+correction, which consists of a set of methods that try to enhance the appearance of the image. 
+Image enhancement is basically about clarifying or raising awareness of information in 
+images for the human audience and providing better input for other automated image 
+processing systems. 
