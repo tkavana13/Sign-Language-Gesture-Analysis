@@ -34,3 +34,6 @@ Results:
 
 
 ![image alt](https://github.com/tkavana13/Sign-Language-Gesture-Analysis/blob/main/Screenshot%20(92).png?raw=true)
+
+
+![image alt](https://github.com/tkavana13/Sign-Language-Gesture-Analysis/blob/main/Screenshot%20(94).png?raw=true)
